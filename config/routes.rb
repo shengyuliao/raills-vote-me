@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  resources :candidates
+  resources :candidates #only: [:index, :show]
 end
