@@ -1,0 +1,2 @@
+class CandidatesControllers < ActionController
+end
